@@ -1,2 +1,2 @@
-# flipcore
-Brand new PaperMC fork
+# FlipCore
+Brand new Minecraft server core
